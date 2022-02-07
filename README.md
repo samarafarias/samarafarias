@@ -9,6 +9,14 @@ I'm Samara, a front-end developer.
 
 </a>
 
+###
+<p>
+<a href="mailto:luzdsam@gmail.com" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luzdsam@gmail.com" />
+
+</a>
+</p>
 <!--
 **samarafarias/samarafarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
