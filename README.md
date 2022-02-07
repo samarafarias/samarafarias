@@ -2,7 +2,7 @@
 
 I'm Samara, a front-end developer.
 
-###
+### Find me
 <a href="https://www.linkedin.com/in/samarafarias" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
