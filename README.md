@@ -9,7 +9,7 @@ I'm Samara, a front-end developer.
 
 </a>
 
-###
+
 
 <a href="mailto:luzdsam@gmail.com" alt="gmail" target="_blank">
 
