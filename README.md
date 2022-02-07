@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/samarafarias" alt="linkedin" target="_blank"></a>
-<a href="mailto:luzdsam@gmail.com" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luzdsam@gmail.com" />
+I'm Samara, a front-end developer.
 
+###
+<a href="https://www.linkedin.com/in/samarafarias" alt="linkedin" target="_blank">
 
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
 
 <!--
 **samarafarias/samarafarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
