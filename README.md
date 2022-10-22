@@ -5,7 +5,7 @@ I'm Samara, a front-end developer.
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samarafarias&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-### ⚙️ Hard skills 
+### ⚙️ Skills 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
