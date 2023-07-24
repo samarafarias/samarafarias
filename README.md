@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm Samara, a front-end developer.
+I'm Samara, a web developer.
 
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samarafarias&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
