@@ -3,7 +3,13 @@
 I'm Samara, a web developer.
 
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samarafarias&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+  </td>
 
 ### ⚙️ Skills 
 
