@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm Samara, a web developer.
+I'm Samara, web developer.
 
 
  <td>
