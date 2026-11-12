@@ -1,24 +1,22 @@
-### Hi there 👋  
+# Hi, I'm Samara 👋
 
-I'm Samara, web developer.
+Systems Analyst and Back-End Developer.
 
+## Tech Stack
 
- <td>
-   <!--   <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarafarias&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-  </td> <br> -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,bootstrap,nodejs,express,mongodb,postgres,git,docker,azure,linux,postman&perline=12" alt="Tech stack" />
+</p>
 
-### ⚙️ Skills 
+## My GitHub
 
+[![samarafarias's GitHub stats](https://gitshine.com/card/samarafarias)](https://gitshine.com/stats/samarafarias)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)<br>
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+[![samarafarias's GitHub badges](https://gitshine.com/badges/samarafarias)](https://gitshine.com/stats/samarafarias#badges)
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/samarafarias)
 
 
 
